@@ -1,3 +1,5 @@
+### Comentários em python
+
 nome = 'Alan Silva'
 nascimento = 2001
 idade = 2021 - nascimento
